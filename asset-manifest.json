@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.5b0b7961.js",
+    "static/media/food2.jpg": "/static/media/food2.d701d27bc282364d3cba.jpg",
+    "static/media/food1.jpg": "/static/media/food1.8c1d9f5183e07afd8825.jpg",
+    "static/media/food3.jpg": "/static/media/food3.beb84fcf9aec65e1e44e.jpg",
+    "index.html": "/index.html",
+    "main.5b0b7961.js.map": "/static/js/main.5b0b7961.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5b0b7961.js"
+  ]
+}
